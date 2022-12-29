@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ecs.png</file>
+        <file>res/ECS_Logo_Word.png</file>
+    </qresource>
+</RCC>
