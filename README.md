@@ -1,5 +1,4 @@
-![](/res/r_icon.png) # Ecsreport For Print Qtableview  1.0
-
+<h1><img src="/res/r_icon.png" alt="logo" width="80" height="80"/>Ecs Report for print Qtableview  1.0</h1>
 
 #### Qt librery for printing QtableView & QtableWidget and export them to pdf
 
