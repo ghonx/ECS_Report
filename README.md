@@ -1,4 +1,4 @@
-![](/res/icon.png) # Ecsreport For Print Qtableview  1.0
+![](/res/r_icon.png) # Ecsreport For Print Qtableview  1.0
 
 
 #### Qt librery for printing QtableView & QtableWidget and export them to pdf
