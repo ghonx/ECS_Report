@@ -2,7 +2,6 @@
 
 #### Qt library for printing QtableView & QtableWidget and export them to pdf
 
-
 **Features**
 
    -  Pure Qt5/Qt6 compatible code
